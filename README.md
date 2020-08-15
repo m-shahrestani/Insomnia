@@ -1,4 +1,4 @@
-# Insomnia(not original version)
+# Insomnia
 AP Midterm Project - simple copy of insomina app with Java - a practice for java swing, multi threading and http request  
 <img src=images/insomniaScreen.png></img>  
   
@@ -8,7 +8,7 @@ You can use this project to send HTTP requests. supported methods are GET, POST,
 You can choose binary file, form data, or JSON for your request body kind. you can also save response and save and grouping requests.  
 
 You can use this project on two ways:
-* 1: send request cross terminal (like [curl](https://curl.haxx.se))
+* 1: send request into terminal (like [curl](https://curl.haxx.se))
 * 2: use GUI 
 
 ## Installation
